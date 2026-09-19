@@ -2,7 +2,7 @@
 
 Two versions of a Rock-Paper-Scissors CLI game in C, plus the benchmark comparing how the winner-check logic evolved between them.
 
-Full writeup: <link to blog post>
+Full writeup: [Read on my blog](https://davidessien.dev/blog/what-math-actually-buys-you-optimizing-a-rock-paper-scissors-game-in-c)
 
 `naive/main.c` was last modified October 19, 2024. `optimized/main.c` was last modified October 25, 2024. Both are published here for the first time in September 2026.
 
